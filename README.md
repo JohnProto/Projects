@@ -6,7 +6,7 @@ Made a Stratego game from scratch with Java. You can click each piece to reveal 
 You can find the code here
 
 ## **Sudoku solver and generator**
-Made a sudoku solver which can also generate a random sudoku with C. You can insert an unsolved sudoku through the command line, and it'll print the solved sudoku and also if the solution is unique or not. It solves the sudoku with a backtracking algorithm I made and various other functions that help with finding errors and checkign if the sudoku is correct. The program can also generate a completely new sudoku with as many non-zero cells as you want and you can also specify if the generated sudoku will have a unique solution or not.\
+Made a sudoku solver which can also generate a random sudoku with C. You can insert an unsolved sudoku through the command line, and it'll print the solved sudoku and also if the solution is unique or not. It solves the sudoku with a backtracking algorithm I made and various other functions that help with finding errors and checking if the sudoku is correct. The program can also generate a completely new sudoku with as many non-zero cells as you want and you can also specify if the generated sudoku will have a unique solution or not.\
 You can find the code here
 
 ## **Blogger like app**
@@ -14,5 +14,5 @@ Made the back-end code of an app with C that resembles the Blogger subscription 
 You can find the code here
 
 ## **Tank Game**
-Made a World of Tanks similar game using Unity and utilizing C#. You can move your tank with the arrow keys in the keyboard and attack the enemy tank with the left click of the mouse. The tank has a health bar and each time it gets hit the health decreases. There are also some power-ups inside the arena that give your tank certain powers like faster movement. Lastly I developed an achievement system that when you complete certain tasks you add to your achievement list the completed task. This is a two player game that the two players play from the same keyboard using the arrow keys or the WASD keys..\
+Made a World of Tanks similar game using Unity and utilizing C#. You can move your tank with the arrow keys in the keyboard and attack the enemy tank with the left click of the mouse. The tank has a health bar and each time it gets hit the health decreases. There are also some power-ups inside the arena that give your tank certain powers like faster movement. Lastly I developed an achievement system that when you complete certain tasks the achievement is added to your completed tasks list. This is a two player game that the two players play from the same keyboard using the arrow keys or the WASD keys..\
 You can find the code here
