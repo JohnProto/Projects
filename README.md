@@ -17,9 +17,7 @@ You can find the code [here](https://github.com/JohnProto/sudoku_solver)
 
 ## **Blogger like app**
 
-
 https://user-images.githubusercontent.com/131659599/234401998-d3975598-faf1-45f5-8a19-05adfaf9b086.mp4
-
 
 Made the back-end code of an app with C that resembles the Blogger subscription system. There are creators and consumers. The creators can post content and see statistics of their various channels that they've created. The consumers can subscribe to a channel and consume the content it has, and even see which content they already consumed and proceed to read the new content. With a complex system of leaf oriented trees and lists, each action inserted by the user through the command line, whether he is a consumer or a creator, can affect the relations between each tree, resulting in a very good structured subscription system.\
 You can find the code [here](https://github.com/JohnProto/blogger_app)
