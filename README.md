@@ -3,16 +3,13 @@ Some self projects I've been working on for the past 2 years
 
 ## **Stratego Game**
 
-
-
 https://user-images.githubusercontent.com/131659599/234344421-70d79967-07f9-4903-800a-799dc51dd8fc.mp4
 
-
-
 Made a Stratego game from scratch with Java. You can click each piece to reveal the available squares the clicked piece can go to. You can also attack the other player's pieces. The attacking phase works like this: Each piece has a number indicating his rank. The higher the rank, the more powerful the piece. When a higher rank piece attacks a lower rank piece, the second dies and dissappears from the map. Also some pieces have special abilities such as moving more squares or attacking higher ranked pieces. The winner is decided when the other player's flag has been captured.\
-You can find the code here
+You can find the code [here](https://github.com/JohnProto/stratego_game)
 
 ## **Sudoku solver and generator**
+
 Made a sudoku solver which can also generate a random sudoku with C. You can insert an unsolved sudoku through the command line, and it'll print the solved sudoku and also if the solution is unique or not. It solves the sudoku with a backtracking algorithm I made and various other functions that help with finding errors and checking if the sudoku is correct. The program can also generate a completely new sudoku with as many non-zero cells as you want and you can also specify if the generated sudoku will have a unique solution or not.\
 You can find the code here
 
