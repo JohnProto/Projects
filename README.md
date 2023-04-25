@@ -10,8 +10,10 @@ You can find the code [here](https://github.com/JohnProto/stratego_game)
 
 ## **Sudoku solver and generator**
 
+https://user-images.githubusercontent.com/131659599/234385802-35ae207a-f43b-4e44-bd56-cd5feabcb94d.mp4
+
 Made a sudoku solver which can also generate a random sudoku with C. You can insert an unsolved sudoku through the command line, and it'll print the solved sudoku and also if the solution is unique or not. It solves the sudoku with a backtracking algorithm I made and various other functions that help with finding errors and checking if the sudoku is correct. The program can also generate a completely new sudoku with as many non-zero cells as you want and you can also specify if the generated sudoku will have a unique solution or not.\
-You can find the code here
+You can find the code [here](https://github.com/JohnProto/sudoku_solver)
 
 ## **Blogger like app**
 Made the back-end code of an app with C that resembles the Blogger subscription system. There are creators and consumers. The creators can post content and see statistics of their various channels that they've created. The consumers can subscribe to a channel and consume the content it has, and even see which content they already consumed and proceed to read the new content. With a complex system of leaf oriented trees and lists, each action inserted by the user through the command line, whether he is a consumer or a creator, can affect the relations between each tree, resulting in a very good structured subscription system.\
