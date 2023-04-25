@@ -21,4 +21,3 @@ You can find the code [here](https://github.com/JohnProto/blogger_app)
 
 ## **Tank Game**
 Made a World of Tanks similar game using Unity and utilizing C#. You can move your tank with the arrow keys in the keyboard and attack the enemy tank with the left click of the mouse. The tank has a health bar and each time it gets hit the health decreases. There are also some power-ups inside the arena that give your tank certain powers like faster movement. Lastly I developed an achievement system that when you complete certain tasks the achievement is added to your completed tasks list. This is a two player game that the two players play from the same keyboard using the arrow keys or the WASD keys.\
-You can find the code here
