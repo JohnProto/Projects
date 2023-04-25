@@ -10,7 +10,7 @@ You can find the code [here](https://github.com/JohnProto/stratego_game)
 
 ## **Sudoku solver and generator**
 
-
+https://user-images.githubusercontent.com/131659599/234402810-7bd1aa6c-2951-497f-b4f0-52143e2af02c.mp4
 
 Made a sudoku solver which can also generate a random sudoku with C. You can insert an unsolved sudoku through the command line, and it'll print the solved sudoku and also if the solution is unique or not. It solves the sudoku with a backtracking algorithm I made and various other functions that help with finding errors and checking if the sudoku is correct. The program can also generate a completely new sudoku with as many non-zero cells as you want and you can also specify if the generated sudoku will have a unique solution or not.\
 You can find the code [here](https://github.com/JohnProto/sudoku_solver)
