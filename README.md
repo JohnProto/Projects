@@ -26,5 +26,8 @@ You can find the code [here](https://github.com/JohnProto/blogger_app)
 Made a World of Tanks similar game using Unity and utilizing C#. You can move your tank with the arrow keys in the keyboard and attack the enemy tank with the left click of the mouse. The tank has a health bar and each time it gets hit the health decreases. There are also some power-ups inside the arena that give your tank certain powers like faster movement. Lastly I developed an achievement system that when you complete certain tasks the achievement is added to your completed tasks list. This is a two player game that the two players play from the same keyboard using the arrow keys or the WASD keys.
 
 ## **Keylogger**
-Made a keylogger using the c language that logs all the keystrokes of the keyboard to a .txt file. I also compiled it to an .exe file so it can run without needing VSCode to be open. First i open up a cmd window and close it instantly and then after each keystroke, I check if the key pressed is a special key (Space, Backspace, Alt, Ctrl, Tab, Capslock, Shift) and I do the corresponding adjustments to the .txt file.\
+
+https://github.com/JohnProto/Projects/assets/131659599/658b8042-c180-4ff1-9eb7-9ba853cf0b87
+
+Made a keylogger using the C++ language that logs all the keystrokes of the keyboard to a .txt file. I also compiled it to an .exe file so it can run without needing VSCode to be open. First i open up a cmd window and close it instantly and then after each keystroke, I check if the key pressed is a special key (Space, Backspace, Alt, Ctrl, Tab, Capslock, Shift) and I do the corresponding adjustments to the .txt file.\
 You can find the code [here](https://github.com/JohnProto/Keylogger)
